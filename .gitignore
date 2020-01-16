@@ -1,6 +1,6 @@
-
-
+#Проигнорировать
+tmp/
 *Thumbs.db
 *.*_old
 *.*_backup
-.DS_Store
+*.DS_Store
